@@ -1,0 +1,25 @@
+[debug] [2023-09-04T04:25:55.095Z] ----------------------------------------------------------------------
+[debug] [2023-09-04T04:25:55.097Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Insmod Normal\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-04T04:25:55.097Z] CLI Version:   12.5.2
+[debug] [2023-09-04T04:25:55.097Z] Platform:      win32
+[debug] [2023-09-04T04:25:55.097Z] Node Version:  v20.5.1
+[debug] [2023-09-04T04:25:55.097Z] Time:          Sun Sep 03 2023 21:25:55 GMT-0700 (Pacific Daylight Time)
+[debug] [2023-09-04T04:25:55.097Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-04T04:25:55.175Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-04T04:25:55.176Z] > authorizing via signed-in user (jamesmoffitt530@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Insmod Normal\precious-pairs
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+

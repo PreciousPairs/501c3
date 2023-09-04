@@ -1,12 +1,15 @@
 {
   "name": "precious-pairs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "author": "",
+    "license": "ISC"
   },
+  "main": "firebase.js",
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
@@ -39,5 +42,7 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "_id": "precious-pairs@1.0.0",
+  "readme": "ERROR: No README data found!"
 }

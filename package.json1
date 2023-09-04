@@ -1,0 +1,13 @@
+{
+  "name": "Preciouspairs",
+  "version": "1.0.0",
+  "scripts": {
+  "serve": "vue-cli-service serve",
+  "build": "vue-cli-service build",
+  "lint": "vue-cli-service lint"
+},
+  "dependencies": {
+    "vue": "^3.0.0"
+  }
+}
+
